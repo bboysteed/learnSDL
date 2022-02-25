@@ -150,8 +150,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/steed/CLionProjects/leetcode/cmake-build-debug",
-		"source" : "/Users/steed/CLionProjects/leetcode"
+		"build" : "/Users/steed/CLionProjects/learnSDL/cmake-build-debug",
+		"source" : "/Users/steed/CLionProjects/learnSDL"
 	},
 	"version" : 
 	{

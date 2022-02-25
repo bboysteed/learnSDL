@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/steed/CLionProjects/leetcode
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/steed/CLionProjects/learnSDL
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/steed/CLionProjects/leetcode/cmake-build-debug
+-- Build files have been written to: /Users/steed/CLionProjects/learnSDL/cmake-build-debug

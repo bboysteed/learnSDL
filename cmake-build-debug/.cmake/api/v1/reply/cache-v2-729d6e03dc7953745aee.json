@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/steed/CLionProjects/leetcode/cmake-build-debug"
+			"value" : "/Users/steed/CLionProjects/learnSDL/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/steed/CLionProjects/leetcode"
+			"value" : "/Users/steed/CLionProjects/learnSDL"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -747,7 +747,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk"
+			"value" : "/Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -1078,18 +1078,6 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "SDL2_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "The directory containing a CMake configuration file for SDL2."
-				}
-			],
-			"type" : "PATH",
-			"value" : "/usr/local/lib/cmake/SDL2"
-		},
-		{
 			"name" : "leetcode_BINARY_DIR",
 			"properties" : 
 			[
@@ -1099,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/steed/CLionProjects/leetcode/cmake-build-debug"
+			"value" : "/Users/steed/CLionProjects/learnSDL/cmake-build-debug"
 		},
 		{
 			"name" : "leetcode_IS_TOP_LEVEL",
@@ -1123,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/steed/CLionProjects/leetcode"
+			"value" : "/Users/steed/CLionProjects/learnSDL"
 		}
 	],
 	"kind" : "cache",
